@@ -1,79 +1,41 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🔑  Password Generator App
 
-# Getting Started
+This is a React Native app that allows users to generate strong passwords based on customizable options. Users can select the password length (between 4-16 characters) and specify whether the password includes lowercase letters, uppercase letters, numbers, and/or symbols. The app also has options to reset the form.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+![Diseño sin título (1)](https://github.com/user-attachments/assets/6e233d19-fce7-4f05-b48e-ffa9068c7c50)
 
-## Step 1: Start the Metro Server
+## How It's Made:
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+**Tech used:** React Native, Formik, Yup
 
-To start Metro, run the following command from the _root_ of your React Native project:
+This app is built with React Native and focuses on form management and validation:
 
-```bash
-# using npm
-npm start
+- **React Native:** To build the app interface and manage component-based structure.
+- **Formik:** For handling the form state and user input.
+- **Yup:** For schema-based form validation.
+- **useState Hook:** For managing the dynamic state of the form options and generated password.
 
-# OR using Yarn
-yarn start
-```
+### Key Features:
+- Input password length (4-16 characters).
+- Choose password criteria: lowercase, uppercase, numbers, symbols.
+- Generate password with a button.
+- Reset the form with a reset button.
 
-## Step 2: Start your Application
+## Optimizations
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+In future iterations, we could add functionality to copy the generated password to the clipboard or display password strength based on the criteria chosen. Another potential enhancement could be saving user preferences for future password generations.
 
-### For Android
+## Lessons Learned:
 
-```bash
-# using npm
-npm run android
+This app helped me understand form handling in React Native using Formik and the useState hook. I also learned about schema validation with Yup to ensure user input follows the correct format.
 
-# OR using Yarn
-yarn android
-```
+## Examples:
 
-### For iOS
+Check out these other projects in my portfolio:
 
-```bash
-# using npm
-npm run ios
+- **Todo List App:** (Add your link here)
+- **Another Project:** (Add your link here)
 
-# OR using Yarn
-yarn ios
-```
+---
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+You can add the project link and screenshot once you’re ready. Let me know if any adjustments are needed!
