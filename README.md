@@ -1,4 +1,4 @@
-# 🔑  Password Generator App
+# 🔑   Password Generator App
 
 This is a React Native app that allows users to generate strong passwords based on customizable options. Users can select the password length (between 4-16 characters) and specify whether the password includes lowercase letters, uppercase letters, numbers, and/or symbols. The app also has options to reset the form.
 
