@@ -2,7 +2,8 @@
 
 This is a React Native app that allows users to generate strong passwords based on customizable options. Users can select the password length (between 4-16 characters) and specify whether the password includes lowercase letters, uppercase letters, numbers, and/or symbols. The app also has options to reset the form.
 
-![Diseño sin título (1)](https://github.com/user-attachments/assets/6e233d19-fce7-4f05-b48e-ffa9068c7c50)
+![Diseño sin título (2)](https://github.com/user-attachments/assets/1e5d7e09-1ecc-4cb4-ac04-3e75385ad2d5)
+
 
 ## How It's Made:
 
