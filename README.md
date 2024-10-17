@@ -5,9 +5,9 @@ This is a React Native app that allows users to generate strong passwords based 
 ![Diseño sin título (2)](https://github.com/user-attachments/assets/1e5d7e09-1ecc-4cb4-ac04-3e75385ad2d5)
 
 
-## How It's Made:
+## 💻   How It's Made:
 
-**Tech used:** React Native, Formik, Yup
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 This app is built with React Native and focuses on form management and validation:
 
@@ -22,6 +22,6 @@ This app is built with React Native and focuses on form management and validatio
 - Generate password with a button.
 - Reset the form with a reset button.
 
-## Lessons Learned:
+## 🧠  Lessons Learned:
 
 This app helped me understand form handling in React Native using Formik and the useState hook. I also learned about schema validation with Yup to ensure user input follows the correct format.
