@@ -22,21 +22,6 @@ This app is built with React Native and focuses on form management and validatio
 - Generate password with a button.
 - Reset the form with a reset button.
 
-## Optimizations
-
-In future iterations, we could add functionality to copy the generated password to the clipboard or display password strength based on the criteria chosen. Another potential enhancement could be saving user preferences for future password generations.
-
 ## Lessons Learned:
 
 This app helped me understand form handling in React Native using Formik and the useState hook. I also learned about schema validation with Yup to ensure user input follows the correct format.
-
-## Examples:
-
-Check out these other projects in my portfolio:
-
-- **Todo List App:** (Add your link here)
-- **Another Project:** (Add your link here)
-
----
-
-You can add the project link and screenshot once you’re ready. Let me know if any adjustments are needed!
