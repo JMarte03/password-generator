@@ -25,3 +25,10 @@ This app is built with React Native and focuses on form management and validatio
 ## 🧠  Lessons Learned:
 
 This app helped me understand form handling in React Native using Formik and the useState hook. I also learned about schema validation with Yup to ensure user input follows the correct format.
+
+## Other projects: 
+
+Check out these other similar projects in my portfolio:
+
+- Random background changer: https://github.com/JMarte03/password-generator
+- Basic styling with React Native: https://github.com/JMarte03/basic-styling-react-native
