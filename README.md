@@ -30,5 +30,5 @@ This app helped me understand form handling in React Native using Formik and the
 
 Check out these other similar projects in my portfolio:
 
-- Random background changer: https://github.com/JMarte03/password-generator
+- Random background changer: https://github.com/JMarte03/random-background-generator
 - Basic styling with React Native: https://github.com/JMarte03/basic-styling-react-native
